@@ -1,7 +1,7 @@
 # Parallels VM for M1 and M2 Mac
 > This guide presumes you have paralles installed on your Mac - dosen't matter how you've got it  as long as it's working on ARM architectures.
 
-The VM you've received is **almost** ready to use and, if you follow the instructions correctly, you should be ready in no time.
+The [VM you've received](https://drive.google.com/drive/folders/1Q6OkYr6agKa93yyv6uFuvo9Ly5jnFkvd?usp=sharing) is **almost** ready to use and, if you follow the instructions correctly, you should be ready in no time.
 
 ## Adding Locosim
 
