@@ -49,5 +49,6 @@ And now you can run whater project you wanna work on just by using:
 ```console
 python3 -i ~/ros_ws/src/locosim/robot_control/base_controllers/base_controller.py
 ```
+**You might need to import some packages manually depending on the project!**
 
 Created by [Federico Natali](https://github.com/natfederico) for the Fundamentals of Robotics course at [UniTN](https://www.unitn.it)
