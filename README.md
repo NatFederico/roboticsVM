@@ -39,7 +39,7 @@ rospack profile
 ```
 I've already configured the enviroment variables, so you don't have to worry about it.
 
-## Up and running with Python
+## Getting up and running with Python
 In the VM you'll find alreasy Pycharm installed (**do not update it!**) and you can execute it from terminal using the command `pycharm`.  
 As your first time operning it there are a few step to follow:
 - Open one of the projects already in locosim like `locosim/robot_control/base_controllers/base_controller_fixed.py`  
